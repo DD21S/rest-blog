@@ -21,8 +21,8 @@ pip install -r requirements.txt
 In the folder ``core/`` create a file called ``.env`` and set your environment variables. Do it like this:
 
 
-	DEBUG=True_or_False
-	SECRET_KEY=YOUR_SECRET_KEY
+    DEBUG=True_or_False
+    SECRET_KEY=YOUR_SECRET_KEY
 
 
 Now, make the migrations.
